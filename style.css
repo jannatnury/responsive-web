@@ -1,0 +1,41 @@
+/* header style  */
+#img-logo{
+    width: 225px;
+    height: 30px;
+}
+#menu-footer a{
+    text-decoration: none;
+    color: gray;
+}
+#menu-footer a:hover{
+    color: blue;
+    text-decoration:underline;
+}
+/* Hero Section style  */
+/* .hero-section{
+    position: relative;
+}
+#hero-banner{
+    position: absolute;
+} */
+.banner-btn{
+    color: black;
+    border-radius: 20px; 
+}
+.banner-btn:hover{
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-color: black;
+}
+/* <!-- Best celling section styles  --> */
+.best-celling{
+    border-radius: 15px;
+}
+#celling-img-1:hover{
+    background-image: url(images/products/pen.jpg);
+}
+/* cards style  */
+#card-img{
+    height: 286px;
+}
